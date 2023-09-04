@@ -1,0 +1,27 @@
+.counter h1
+{
+border: 2px solid Tomato;
+border-radius: 10px;
+
+
+
+}
+
+
+
+.counter h2
+{
+    font-style: italic;
+    font-weight: bold;
+
+    
+}
+
+
+.counter h3
+{
+background-color: black;
+color: white;
+font-family: monospace;
+    
+}
